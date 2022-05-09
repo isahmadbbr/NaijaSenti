@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Muhammad"
+  given-names: "Shamsuddeen Hassan"
+  orcid: "https://orcid.org/0000-0001-7708-0799"
+- family-names: "Ibrahim Said"
+  given-names: "Ahmad"
+  orcid: "https://orcid.org/0000-0001-9514-1807"
+- family-names: "Bello"
+  given-names: "Shehu Bello"
+  orcid: "https://orcid.org/0000-0001-7303-3135"
+title: "NaijaSenti Dataset"
+version: 1.0.0
+date-released: 2017-12-18
+url: "https://github.com/hausanlp/NaijaSenti"
